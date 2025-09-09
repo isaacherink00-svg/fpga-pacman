@@ -1,0 +1,24 @@
+# Vivado build products
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.jou
+*.log
+*.str
+
+# Vitis / SDK build products
+*.metadata/
+*.sdk/
+*.ide/
+Debug/
+Release/
+*.spr
+*.tcl~
+*.prj
+
+# OS files
+.DS_Store
+Thumbs.db
