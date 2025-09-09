@@ -60,4 +60,4 @@ developed with **Vivado** and **Vitis**.
 
 Here’s a screenshot of the game running on the FPGA board:
 
-![Pac-Man running on FPGA](docs/screenshot.jgp)
+![Pac-Man running on FPGA](docs/screenshot.jpg)
