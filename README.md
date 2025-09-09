@@ -6,13 +6,13 @@ developed with **Vivado** and **Vitis**.
 
 ## Features
 
--   Hardware design written in SystemVerilog (game logic, VGA output,
-    memory blocks).\
--   Software running on MicroBlaze (USB keyboard input, game control).\
--   HDMI output to display the game on a monitor.\
--   Score display on the left hex display.\
--   Current keyboard keycode on the right hex display.\
--   Reset button mapped to the right-most FPGA button.\
+-   Hardware design written in **SystemVerilog** (game logic, VGA output,
+    memory blocks).
+-   Software running on **MicroBlaze** (USB keyboard input, game control).
+-   **HDMI output** to display the game on a monitor.
+-   Score display on the left hex display.
+-   Current keyboard keycode on the right hex display.
+-   Reset button mapped to the right-most FPGA button.
 -   Controls: **WASD keys** for movement.
 
 ## Repository Structure
@@ -27,14 +27,14 @@ developed with **Vivado** and **Vitis**.
 
 ### Requirements
 
--   Xilinx Vivado (tested on \2022.2)\
--   Xilinx Vitis (tested on \2022.2)\
--   Urbana FPGA board\
+-   Xilinx Vivado (tested on \2022.2)
+-   Xilinx Vitis (tested on \2022.2)
+-   Urbana FPGA board
 -   Micro-USB cable and HDMI display
 
 ### Building the Hardware
 
-1.  Open Vivado.\
+1.  Open **Vivado**.
 
 2.  Run the provided TCL script:
 
@@ -46,9 +46,9 @@ developed with **Vivado** and **Vitis**.
 
 ### Building the Software
 
-1.  Launch Vitis.\
-2.  Import the workspace from `vitis/`.\
-3.  Build the project (`pac`).\
+1.  Launch **Vitis**.
+2.  Import the workspace from `vitis/`.
+3.  Build the project (`pac`).
 4.  Program the FPGA and run the application.
 
 ### Controls
