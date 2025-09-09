@@ -2,12 +2,11 @@
 
 This project recreates the classic **Pac-Man arcade game** on an FPGA
 using **SystemVerilog**, **C**, and the **Urbana board**. It was
-developed with **Vivado** and **Vitis**.
+developed with **Vivado** and **Vitis** as part of **UIUC ECE 385 (Digital Systems Laboratory)**.
 
 ## Features
 
--   Hardware design written in **SystemVerilog** (game logic, VGA output,
-    memory blocks).
+-  Game logic implemented in **SystemVerilog** (movement, scoring, collision detection).
 -   Software running on **MicroBlaze** (USB keyboard input, game control).
 -   **HDMI output** to display the game on a monitor.
 -   Score display on the left hex display.
