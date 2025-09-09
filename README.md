@@ -27,8 +27,8 @@ developed with **Vivado** and **Vitis**.
 
 ### Requirements
 
--   Xilinx Vivado (tested on \2022.2)
--   Xilinx Vitis (tested on \2022.2)
+-   Xilinx Vivado (tested on 2022.2)
+-   Xilinx Vitis (tested on 2022.2)
 -   Urbana FPGA board
 -   Micro-USB cable and HDMI display
 
@@ -53,7 +53,7 @@ developed with **Vivado** and **Vitis**.
 
 ### Controls
 
--   **WASD** --- Move Pac-Man\
+-   **WASD** --- Move Pac-Man
 -   **Right-most board button** --- Reset game
 
 ## Demo
