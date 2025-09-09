@@ -27,8 +27,8 @@ developed with **Vivado** and **Vitis**.
 
 ### Requirements
 
--   Xilinx Vivado (tested on \[insert version you used\])\
--   Xilinx Vitis (tested on \[insert version you used\])\
+-   Xilinx Vivado (tested on \2022.2)\
+-   Xilinx Vitis (tested on \2022.2)\
 -   Urbana FPGA board\
 -   Micro-USB cable and HDMI display
 
